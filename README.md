@@ -17,3 +17,10 @@
 
 <!-- Fading Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
+<div align="center">
+    <!-- Tiêu đề "LeetCode Stats" -->
+    <h2>LeetCode Stats</h2>
+    <!-- Ảnh LeetCode Stats -->
+    <img src="https://leetcard.jacoblin.cool/truowngfxuaan?theme=dark&font=NTR">
+</div>
