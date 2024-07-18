@@ -9,15 +9,4 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,vscode,docker,git,github,mysql,opencv,pytorch,scikit" /><br>
 </div>
-
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
