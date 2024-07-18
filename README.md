@@ -1,12 +1,19 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Ky23r!;" />
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" /> &nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Ky23r!;" /> &nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" />
 </h1>
 
-<hr/>
+<!-- Fading Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
-<h2 align="center">⚒️ Languages - Tools - Libraries ⚒️</h2>
-<br/>
+<div align="center">
+    <img align='center' src='https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif' width='400' style="display:inline-block; vertical-align: middle;" />
+    <h2 style="display:inline-block;">⚒️ Languages - Tools - Libraries ⚒️</h2>
+</div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vscode,docker,git,mysql,opencv,pytorch" /><br>
 </div>
-<br/>
+
+<!-- Fading Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
