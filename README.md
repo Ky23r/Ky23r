@@ -5,7 +5,9 @@
 </h1>
 
 <!-- Fading Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+</div>
 
 <div align="center">
     <img align='center' src='https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif' width='400' style="display:inline-block; vertical-align: middle;" />
@@ -16,7 +18,9 @@
 </div>
 
 <!-- Fading Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+</div>
 
 <div align="center">
     <h2>LeetCode Stats</h2>
@@ -29,4 +33,6 @@
 </div>
 
 <!-- Fading Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+</div>
