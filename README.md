@@ -25,7 +25,7 @@
 
 <div align="center">
     <h2>Codeforces Stats</h2>
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_D33N0">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_D33N0&theme=dark">
 </div>
 
 <!-- Fading Line -->
