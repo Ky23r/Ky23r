@@ -7,6 +7,6 @@
 <h2 align="center">⚒️ Languages - Tools - Libraries ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,docker,git,mysql,opencv,pytorch,scikit" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vscode,docker,git,mysql,opencv,pytorch" /><br>
 </div>
 <br/>
