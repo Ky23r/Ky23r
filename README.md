@@ -20,7 +20,7 @@
 
 <div align="center">
     <h2>LeetCode Stats</h2>
-    <img src="https://leetcard.jacoblin.cool/truowngfxuaan?theme=dark&font=NTR">
+    <img src="https://leetcard.jacoblin.cool/truowngfxuaan?theme=dark&font=Alike%20Angular">
 </div>
 
 <div align="center">
