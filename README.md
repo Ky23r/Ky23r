@@ -1,8 +1,9 @@
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80px" /> &nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=50&duration=4000&lines=Hello+World!+👋;+I'm+Ky23r!;" /> &nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80px" />
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80px" style="vertical-align: middle; margin: 0;" /> &nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Ky23r!;" style="vertical-align: middle; margin: 0;" /> &nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80px" style="vertical-align: middle; margin: 0;" />
 </h1>
+
 
 <!-- Fading Line -->
 <div align="center">
