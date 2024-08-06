@@ -25,19 +25,11 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=60&duration=4000&lines=LeetCode+Stats" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=60&duration=4000&lines=My+LeetCode+Stats" />
 </div>
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/truowngfxuaan?theme=dark&font=Alike%20Angular">
-</div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Codeforces+Stats" />
-</div>
-
-<div align="center">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_D33N0&theme=dark">
 </div>
 
 <!-- Gradient Line -->
