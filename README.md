@@ -26,7 +26,7 @@
 
 <h1 align="center">
     <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px">
-    GitHub Stats
+    My GitHub Stats
     <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px">
 </h1>
 <div align="center">
