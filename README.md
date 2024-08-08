@@ -24,11 +24,15 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
 </div>
 
-<h1 align="center">✨ Stats ✨</h1>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px">
+    GitHub Stats
+    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px">
+</h1>
 <div align="center">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ky23r&layout=compact&langs_count=8&theme=react&border_radius=10"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ky23r&layout=compact&langs_count=8&theme=react&border_radius=10"/>
 </br>
-<img alt="Ky23r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ky23r&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+    <img alt="Ky23r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ky23r&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
 </div>
 
 <!-- Gradient Line -->
