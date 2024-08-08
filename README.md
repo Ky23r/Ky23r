@@ -23,16 +23,3 @@
 <div align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
 </div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=60&duration=4000&lines=My+LeetCode+Stats" />
-</div>
-
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/truowngfxuaan?theme=dark&font=Alike%20Angular">
-</div>
-
-<!-- Gradient Line -->
-<div align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
-</div>
