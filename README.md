@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap; gap: 10px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=600&height=90&duration=4000&lines=HELLO+WORLD!" />
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="60" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=400&height=90&duration=4000&lines=HELLO+WORLD!" />
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="60" />
 </div>
 
 
