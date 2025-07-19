@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=HELLO+WORLD!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=HELLO+WORLD!" />
 </div>
 
 <!-- Gradient Line -->
