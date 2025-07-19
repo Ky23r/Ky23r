@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=60&duration=4000&lines=LANGUAGES+-+TOOLS+-+FRAMEWORKS" style="display:inline-block; vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=60&duration=4000&lines=LANGUAGES+-+TOOLS+-+FRAMEWORKS" style="display:inline-block; vertical-align: middle;" />
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
 </div>
 
