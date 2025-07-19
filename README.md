@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=90&duration=4000&lines=HELLO+WORLD!+👋" />
+    <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=600&height=90&duration=4000&lines=HELLO+WORLD!" />
+    <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80" />
 </div>
 
 <!-- Gradient Line -->
@@ -12,7 +14,9 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1000&height=60&duration=4000&lines=⚒️+LANGUAGES+-+TOOLS+-+FRAMEWORKS+⚒️" style="display:inline-block; vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=850&height=60&duration=4000&lines=LANGUAGES+-+TOOLS+-+FRAMEWORKS" style="display:inline-block; vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
 </div>
 
 <div align="center">
@@ -22,6 +26,10 @@
 <!-- Gradient Line -->
 <div align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
+</div>
+
+<div align="left">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="120" />
 </div>
 
 <div align="center">
