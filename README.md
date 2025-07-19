@@ -23,3 +23,7 @@
 <div align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
 </div>
+
+<p align="center">
+  <img src="./ascii-art.png" alt="ASCII Art" width="800"/>
+</p>
