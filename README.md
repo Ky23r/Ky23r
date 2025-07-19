@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vscode,docker,git,mysql,opencv,pytorch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ubuntu,anaconda,vscode,docker,git,github,sklearn,opencv,tensorflow,pytorch" />
 </div>
 
 <!-- Gradient Line -->
