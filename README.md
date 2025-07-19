@@ -24,6 +24,6 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2000" />
 </div>
 
-<p align="center">
-  <img src="./ascii-art.png" alt="ASCII Art" width="800"/>
-</p>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="600" />
+</div>
