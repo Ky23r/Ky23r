@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1000&height=60&duration=4000&lines=⚒️+Languages+-+Tools+-+Libraries+⚒️" style="display:inline-block; vertical-align: middle;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1000&height=60&duration=4000&lines=⚒️+LANGUAGES+-+TOOLS+-+FRAMEWORKS+⚒️" style="display:inline-block; vertical-align: middle;" />
 </div>
 
 <div align="center">
