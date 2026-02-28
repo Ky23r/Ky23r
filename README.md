@@ -23,7 +23,7 @@
 > - 🚀 Future Goals: Push the boundaries of AI capabilities and build robust, secure models. Never stop innovating.
 
 > [!TIP]  
-> - 📗 Always open to discussing AI, exploring novel research ideas, or collaborating. Let's connect!
+> - 📚 Always open to discussing AI, exploring novel research ideas, or collaborating. Let's connect!
 
 <div align="center">
     <img align='center' src="assets/gradient_line.gif" width="9999" />
