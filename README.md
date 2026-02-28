@@ -30,5 +30,5 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/languages_tools_frameworks.svg" />
+    <img align='center' src="assets/languages_tools_frameworks.svg" width="999" />
 </div>
