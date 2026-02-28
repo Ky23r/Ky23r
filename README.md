@@ -61,6 +61,14 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+<div align="center">
+    <img align='center' src="assets/gradient_line.gif" width="9999" />
+</div>
+
+<div align="center">
     <img align='center' src="assets/img.png" />
 </div>
 
