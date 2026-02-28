@@ -10,12 +10,12 @@
     <img align='center' src="assets/gradient_line.gif" width="9999" />
 </div>
 
+<div>
+    <img align='right' src="assets/hacker.gif" width="299" />
+</div>
+
 > [!CAUTION]
 > - 🎯 Target acquired. Welcome to my GitHub.
-
-<div>
-    <img align='right' src="assets/hacker.gif" width="199" />
-</div>
 
 > [!NOTE]
 > - ✔️ I’m currently focused on Artificial Intelligence research, engineering intelligent systems for a smarter tomorrow.
