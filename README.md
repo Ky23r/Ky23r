@@ -64,3 +64,7 @@
 
 <p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
 <p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
+
+<div align="center">
+    <img align='center' src="assets/thanks_for_visiting.svg" width="999" />
+</div>
