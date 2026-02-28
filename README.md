@@ -32,7 +32,3 @@
 <div align="center">
     <img align='center' src="assets/languages_tools_frameworks.svg" />
 </div>
-
-<div align="center">
-    <img align='center' src="assets/icons.svg" />
-</div>
