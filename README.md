@@ -52,3 +52,13 @@
   </table>
 </div>
 
+<div align="center">
+    <img align='center' src="assets/gradient_line.gif" width="9999" />
+</div>
+
+<div align="center">
+  <h2>📊 Profile Analytics</h2>
+  <a href="https://github.com/sponsors/Ky23r">
+    <img src="https://count.getloli.com/@Ky23r?name=Ky23r&theme=green&darkmode=1" alt="Profile Analytics" />
+  </a>
+</div>
