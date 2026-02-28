@@ -14,7 +14,7 @@
 > - 🎯 Target acquired. Welcome to my GitHub.
 
 <div>
-    <img align='right' src="assets/hacker.gif" width="299" />
+    <img align='right' src="assets/hacker.gif" width="199" />
 </div>
 
 > [!NOTE]
