@@ -32,3 +32,4 @@
 <div align="center">
     <img align='center' src="assets/tech_stack.svg" width="999" />
 </div>
+
