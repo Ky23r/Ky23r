@@ -57,7 +57,6 @@
 </div>
 
 <div align="center">
-  <h2>📊 Profile Analytics</h2>
   <a href="https://github.com/Ky23r">
     <img src="https://count.getloli.com/@Ky23r?name=Ky23r&theme=green&darkmode=1" alt="Profile Analytics" />
   </a>
