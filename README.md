@@ -61,3 +61,6 @@
     <img src="https://count.getloli.com/@Ky23r?name=Ky23r&theme=green&darkmode=1" alt="Profile Analytics" />
   </a>
 </div>
+
+<p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
+<p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
