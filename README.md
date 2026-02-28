@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <img align='right' src="assets/hacker.gif" width="299" />
+    <img align='right' src="assets/hacker.gif" width="199" />
 </div>
 
 > [!CAUTION]
