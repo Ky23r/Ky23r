@@ -61,7 +61,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="snake gif" />
+    <img align='center' src="assets/activity_logs.svg" width="999" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="Activity Logs Gif" />
 </div>
 
 <div align="center">
