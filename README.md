@@ -36,11 +36,18 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="190"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
-      <td align="center" width="190"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="65"></td>
-      <td align="center" width="190"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="75"></td>
-      <td align="center" width="190"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="85"></td>
-      <td align="center" width="190"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="75"></td>
+      <td align="center" width="190"><img src="assets/cpp_icon.svg" alt="icon" width="90" height="85"></td>
+      <td align="center" width="190"><img src="assets/java_icon.svg" alt="icon" width="90" height="85"></td>
+      <td align="center" width="190"><img src="assets/python_icon.svg" alt="icon" width="90" height="85"></td>
+      <td align="center" width="190"><img src="assets/ubuntu_icon.svg" alt="icon" width="140" height="120"></td>
+      <td align="center" width="190"><img src="assets/git_icon.svg" alt="icon" width="140" height="120"></td>
+    </tr>
+    <tr>
+      <td align="center" width="190"><img src="assets/docker_icon.svg" alt="icon" width="90" height="85"></td>
+      <td align="center" width="190"><img src="assets/vscode_icon.svg" alt="icon" width="140" height="120"></td>
+      <td align="center" width="190"><img src="assets/numpy_icon.svg" alt="icon" width="140" height="120"></td>
+      <td align="center" width="190"><img src="assets/pytorch_icon.svg" alt="icon" width="140" height="120"></td>
+      <td align="center" width="190"><img src="assets/tensorflow_icon.svg" alt="icon" width="140" height="120"></td>
     </tr>
   </table>
 </div>
