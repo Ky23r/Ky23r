@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/wave.svg" width="999" />
+    <img align='center' src="assets/gradient_wave.svg" width="999" />
 </div>
 
 <div align="center">
