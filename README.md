@@ -76,20 +76,6 @@
   <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="Activity Logs Gif" />
 </div>
 
-<div align="center">
-    <img align='center' src="assets/gradient_line.gif" width="9999" />
-</div>
-
-<div align="center">
-    <img align='center' src="assets/img.png" width="699" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ky23r">
-    <img src="https://count.getloli.com/@Ky23r?name=Ky23r&theme=green&darkmode=1" alt="Profile Analytics" width="199" />
-  </a>
-</div>
-
 <p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
 <p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
 
