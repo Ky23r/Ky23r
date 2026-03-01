@@ -86,8 +86,8 @@
   <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="Activity Logs Gif" />
 </div>
 
-<p><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
-<p><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
+<div><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></div>
+<div><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></div>
 
 <div align="center">
     <img align='center' src="assets/thanks_for_visiting.svg" width="999" />
