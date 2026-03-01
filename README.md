@@ -13,7 +13,6 @@
 <div>
     <img align='left' src="assets/skills.gif" width="99" />
 </div>
-
 <div>
     <img align='right' src="assets/skills.gif" width="99" />
 </div>
@@ -39,6 +38,18 @@
 
 <div align="center">
     <img align='center' src="assets/gradient_line.gif" width="9999" />
+</div>
+
+<div>
+    <img align='left' src="assets/gears.gif" width="99" />
+</div>
+
+<div>
+    <img align='right' src="assets/gears.gif" width="99" />
+</div>
+
+<div align="center">
+    <img align='center' src="assets/lets_code.gif" width="299" />
 </div>
 
 <div align="center">
@@ -76,8 +87,8 @@
   <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="Activity Logs Gif" />
 </div>
 
-<p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
-<p ><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
+<p><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></p>
+<p><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></p>
 
 <div align="center">
     <img align='center' src="assets/thanks_for_visiting.svg" width="999" />
