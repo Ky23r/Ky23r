@@ -75,11 +75,11 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/terminal_banner.svg" width="499" />
+    <img align='center' src="assets/terminal.svg" width="499" />
 </div>
 
 <div align="center">
-    <img align='center' src="assets/terminal.gif" width="999" />
+    <img align='center' src="assets/asciiquarium.gif" width="799" />
 </div>
 
 <div align="center">
