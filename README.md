@@ -11,10 +11,10 @@
 </div>
 
 <div>
-    <img align='left' src="assets/skills.gif" width="99" />
+    <img align='left' src="assets/skills.gif" width="49" />
 </div>
 <div>
-    <img align='right' src="assets/skills.gif" width="99" />
+    <img align='right' src="assets/skills.gif" width="49" />
 </div>
 
 <div align="center">
@@ -41,10 +41,10 @@
 </div>
 
 <div>
-    <img align='left' src="assets/gears.gif" width="99" />
+    <img align='left' src="assets/gears.gif" width="49" />
 </div>
 <div>
-    <img align='right' src="assets/gears.gif" width="99" />
+    <img align='right' src="assets/gears.gif" width="49" />
 </div>
 
 <div align="center">
