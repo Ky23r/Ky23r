@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/gradient_line.gif" width="9999" />
+    <img align='center' src="assets/hacker.gif" width="499" />
 </div>
 
-<div>
-    <img align='right' src="assets/hacker.gif" width="199" />
+<div align="center">
+    <img align='center' src="assets/gradient_line.gif" width="9999" />
 </div>
 
 > [!CAUTION]
