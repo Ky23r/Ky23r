@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/lets_code.gif" width="299" />
+    <img align='center' src="assets/lets_code.gif" width="199" />
 </div>
 
 <div align="center">
