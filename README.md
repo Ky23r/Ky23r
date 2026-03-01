@@ -78,13 +78,6 @@
     <img align='center' src="assets/gradient_line.gif" width="9999" />
 </div>
 
-<div>
-    <img align='left' src="assets/clock.png" width="49" />
-</div>
-<div>
-    <img align='right' src="assets/clock.png" width="49" />
-</div>
-
 <div align="center">
     <img align='center' src="assets/activity_logs.svg" width="999" />
 </div>
