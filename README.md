@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/hacker.gif" width="499" />
+    <img align='center' src="assets/hacker.gif" width="399" />
 </div>
 
 <div>
