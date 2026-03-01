@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-    <img align='center' src="assets/stats.gif" width="299" />
+    <img align='center' src="assets/stats.gif" width="199" />
 </div>
 
 <div align="center">
