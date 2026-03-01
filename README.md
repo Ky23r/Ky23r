@@ -86,6 +86,10 @@
   <img src="https://raw.githubusercontent.com/Ky23r/Ky23r/output/github-snake-dark.svg" alt="Activity Logs Gif" />
 </div>
 
+<div align="center">
+  <img src="https://github-streak-stats-m3h3d1.vercel.app/?user=Ky23r&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" />
+</div>
+
 <div><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="right" /></a></div>
 <div><a href="#top"><img src="assets/back_to_top.svg" alt="Back to Top" align="left" /></a></div>
 
