@@ -75,11 +75,19 @@
 </div>
 
 <div align="center">
+    <img align='center' src="assets/terminal_banner.svg" width="499" />
+</div>
+
+<div align="center">
+    <img align='center' src="assets/terminal.gif" width="999" />
+</div>
+
+<div align="center">
     <img align='center' src="assets/gradient_line.gif" width="9999" />
 </div>
 
 <div align="center">
-    <img align='center' src="assets/activity_logs.svg" width="999" />
+    <img align='center' src="assets/stats.gif" width="199" />
 </div>
 
 <div align="center">
